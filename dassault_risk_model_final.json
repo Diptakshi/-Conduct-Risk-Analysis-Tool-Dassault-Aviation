@@ -1,0 +1,176 @@
+[
+    {
+        "pillar_name": "PILLAR 1: MARKET CONDUCT",
+        "weight": "20",
+        "markers": [
+            {
+                "risk_marker": "Fair Dealing",
+                "definition": "Fair pricing, no market abuse, proper disclosure",
+                "score": 35,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "Disclosure & Transparency",
+                "definition": "Complete product disclosure, clear terms",
+                "score": 40,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "Conflicts of Interest",
+                "definition": "COI identification & management",
+                "score": 45,
+                "risk_level": "Low"
+            }
+        ]
+    },
+    {
+        "pillar_name": "PILLAR 2: CUSTOMER TREATMENT",
+        "weight": "18",
+        "markers": [
+            {
+                "risk_marker": "Customer Complaint Handling",
+                "definition": "Timely resolution, fair process, escalation",
+                "score": 30,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "Suitability Assessment",
+                "definition": "Products matched to customer needs",
+                "score": 35,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "Data Privacy & Protection",
+                "definition": "GDPR compliance, breach management",
+                "score": 25,
+                "risk_level": "Very Low"
+            }
+        ]
+    },
+    {
+        "pillar_name": "PILLAR 3: COMPLIANCE & REGULATORY",
+        "weight": "22",
+        "markers": [
+            {
+                "risk_marker": "Regulatory Violation History",
+                "definition": "Historical penalties, enforcement actions",
+                "score": 15,
+                "risk_level": "Very Low"
+            },
+            {
+                "risk_marker": "AML/KYC Controls",
+                "definition": "Customer identification, beneficial ownership",
+                "score": 40,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "Sanctions Screening",
+                "definition": "OFAC/EU/UN screening, false positive mgmt",
+                "score": 25,
+                "risk_level": "Very Low"
+            },
+            {
+                "risk_marker": "Regulatory Reporting Accuracy",
+                "definition": "Timely, accurate regulatory returns",
+                "score": 35,
+                "risk_level": "Low"
+            }
+        ]
+    },
+    {
+        "pillar_name": "PILLAR 4: OPERATIONAL INTEGRITY",
+        "weight": "18",
+        "markers": [
+            {
+                "risk_marker": "Internal Controls Effectiveness",
+                "definition": "Control design and operating effectiveness",
+                "score": 45,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "System Reliability & Security",
+                "definition": "Uptime, cybersecurity controls, encryption",
+                "score": 50,
+                "risk_level": "Medium"
+            },
+            {
+                "risk_marker": "Fraud Detection & Prevention",
+                "definition": "Detection mechanisms, investigation procedures",
+                "score": 40,
+                "risk_level": "Low"
+            }
+        ]
+    },
+    {
+        "pillar_name": "PILLAR 5: EMPLOYEE CONDUCT",
+        "weight": "12",
+        "markers": [
+            {
+                "risk_marker": "Code of Conduct Compliance",
+                "definition": "Training completion, attestation, breaches",
+                "score": 30,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "Anti-Corruption Training",
+                "definition": "Sapin 2 Law, FCPA, UK Bribery Act",
+                "score": 25,
+                "risk_level": "Very Low"
+            },
+            {
+                "risk_marker": "Whistleblowing Effectiveness",
+                "definition": "Reporting channels, investigation, protection",
+                "score": 35,
+                "risk_level": "Low"
+            }
+        ]
+    },
+    {
+        "pillar_name": "PILLAR 6: GOVERNANCE & CULTURE",
+        "weight": "5",
+        "markers": [
+            {
+                "risk_marker": "Board Oversight Quality",
+                "definition": "Committee structure, meeting frequency, reporting",
+                "score": 45,
+                "risk_level": "Low"
+            },
+            {
+                "risk_marker": "Risk Culture Maturity",
+                "definition": "Tone from top, risk awareness, accountability",
+                "score": 40,
+                "risk_level": "Low"
+            }
+        ]
+    },
+    {
+        "pillar_name": "PILLAR 7:PAVE",
+        "weight": "5",
+        "markers": [
+            {
+                "risk_marker": "Pilot in Command",
+                "definition": "Fatigue / Rest",
+                "score": 21,
+                "risk_level": NaN
+            },
+            {
+                "risk_marker": "Aircraft",
+                "definition": "Maintenance Status",
+                "score": 18,
+                "risk_level": NaN
+            },
+            {
+                "risk_marker": "Environment",
+                "definition": "Weather Conditions",
+                "score": 23,
+                "risk_level": NaN
+            },
+            {
+                "risk_marker": "External Pressures",
+                "definition": "Passenger / Management Pressure",
+                "score": 27,
+                "risk_level": NaN
+            }
+        ]
+    }
+]
